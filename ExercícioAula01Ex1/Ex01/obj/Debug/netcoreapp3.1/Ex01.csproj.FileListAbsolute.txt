@@ -1,0 +1,11 @@
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.exe
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.deps.json
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.runtimeconfig.json
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.runtimeconfig.dev.json
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.dll
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.pdb
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.csprojAssemblyReference.cache
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.AssemblyInfoInputs.cache
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.AssemblyInfo.cs
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.dll
+C:\Users\user_lc3_34.LAB\source\repos\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.pdb

@@ -1,0 +1,11 @@
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\bin\Debug\netcoreapp3.1\ExerciciosAula067Ex01.exe
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\bin\Debug\netcoreapp3.1\ExerciciosAula067Ex01.deps.json
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\bin\Debug\netcoreapp3.1\ExerciciosAula067Ex01.runtimeconfig.json
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\bin\Debug\netcoreapp3.1\ExerciciosAula067Ex01.runtimeconfig.dev.json
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\bin\Debug\netcoreapp3.1\ExerciciosAula067Ex01.dll
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\bin\Debug\netcoreapp3.1\ExerciciosAula067Ex01.pdb
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\obj\Debug\netcoreapp3.1\ExerciciosAula067Ex01.csprojAssemblyReference.cache
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\obj\Debug\netcoreapp3.1\ExerciciosAula067Ex01.AssemblyInfoInputs.cache
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\obj\Debug\netcoreapp3.1\ExerciciosAula067Ex01.AssemblyInfo.cs
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\obj\Debug\netcoreapp3.1\ExerciciosAula067Ex01.dll
+C:\Users\user_lc3_33.LAB\Source\Repos\ExerciciosAula067Ex01\ExerciciosAula067Ex01\obj\Debug\netcoreapp3.1\ExerciciosAula067Ex01.pdb
